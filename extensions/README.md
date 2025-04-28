@@ -10,3 +10,4 @@
 - Just Perfection
 - Logo Menu
 - Desktop Icons
+- Wiggle
