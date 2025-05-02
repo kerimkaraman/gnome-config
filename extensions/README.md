@@ -11,3 +11,4 @@
 - Logo Menu
 - Desktop Icons
 - Wiggle
+- Rounded Window Corner Reborn
